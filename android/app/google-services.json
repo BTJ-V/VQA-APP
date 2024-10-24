@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967927039979",
+    "project_id": "blind-1f24a",
+    "storage_bucket": "blind-1f24a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967927039979:android:12745627d3deae39d5fbae",
+        "android_client_info": {
+          "package_name": "com.example.blnd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZORkgEDO0q55TByF8zEzRacC-wPQRHMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
